@@ -8,7 +8,7 @@ Each research task lives on its own branch. Main serves as the index.
 
 | Branch | Topic | Date | Status |
 |--------|-------|------|--------|
-| — | — | — | No research tasks yet |
+| pipeline-test | pipeline test - verify worktree publishing | 2026-03-30 | complete |
 
 ## How it works
 
